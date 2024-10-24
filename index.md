@@ -10,3 +10,6 @@
 ``` javascript
 const myConst = "Hello San Diego!"
 ```
+- [x] Do this training module
+- [ ] Do that training module
+- [ ] Complete my training
